@@ -57,3 +57,9 @@ Implement signup, login, serialize and deserialize.
 in Authenticate.js
 Add router for success, failure, login, signup, signin
 Add authentication check for posting posts in api
+
+### MongoDB init
+```
+npm install mongoose --save
+```
+
