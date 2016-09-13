@@ -54,3 +54,6 @@ app.use(passport.session());
 ### Implement Authentication
 (in passport-init.js)
 Implement signup, login, serialize and deserialize.
+in Authenticate.js
+Add router for success, failure, login, signup, signin
+Add authentication check for posting posts in api
